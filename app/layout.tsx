@@ -6,7 +6,19 @@ import Navbar from "@/components/Navbar";
 
 const inter = Inter({ subsets: ["latin"] });
 
-
+export const metadata: Metadata = {
+  metadataBase: new URL(
+    "https://personal-portfolio-gold-alpha.vercel.app/"
+  ),
+  title: "Aditya Portfolio",
+  description: "Developer Portfolio By  Aditya Pandey",
+  keywords: ["Developer", "Portfolio", "Developer Portflio", "Aditya Pandey"],
+  openGraph: {
+    title: "Aditya Pandey",
+    description: "Software Engineer",
+    images: "/OpenGraph.jpg",
+  },
+};
 
 export default function RootLayout({
   children,
