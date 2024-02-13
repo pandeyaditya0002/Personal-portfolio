@@ -18,13 +18,7 @@ const About: React.FC<{}> = () => {
           Proficient in JAVASCRIPT, REACT-JS, HTML5/CSS, PYTHON, WordPress and SQL. 
           Passionate about implementing and launching new projects.  
           Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
-          <br/>
-          <br />
-          Delving into the world of DevOps engineering!
-           🛠️ Currently focusing on mastering CI/CD pipelines and AWS deployment,
-            eager to expand my skills and contribute to innovative projects. 
-            Let's connect and explore the possibilities together!
-             #DevOps #CI/CD #AWS #LearningJourney
+         
         </p>
       </div>
     </section>
