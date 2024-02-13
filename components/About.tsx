@@ -5,7 +5,7 @@ const About: React.FC<{}> = () => {
     <section
       id="about"
       className="flex flex-col items-center justify-center h-full relative overflow-hidden pt-[35px] "
-      style={{ transform: "scale(0.9" }}
+      style={{ transform: "scale(0.9)" }} // Fixed the missing closing parenthesis
     >
       <div className="flex flex-col  justify-around flex-wrap items-center   max-w-[900px]">
         <h1 className="text-white font-semibold text-6xl">ABOUT ME</h1>
