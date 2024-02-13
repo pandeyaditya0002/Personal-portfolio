@@ -13,16 +13,19 @@ const About: React.FC<{}> = () => {
           EXPLORE NOW
         </p>
         <p className="text-gray-300 text-center ">
-          As a passionate software engineer, I thrive on the intricate dance
-          between logic and creativity. Currently immersed in the dynamic world
-          of WebHR, my expertise centers around React Native, where I seamlessly
-          blend technology with innovation.
+          As a passionate software engineer, I have strong in design 
+          and integration with intuitive problem-solving skills. 
+          Proficient in JAVASCRIPT, REACT-JS, HTML5/CSS, PYTHON, WordPress and SQL. 
+          Passionate about implementing and launching new projects.  
+          Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.
+          <br/>
           <br />
-          <br />
-          With a fervor for crafting elegant solutions, I navigate the
-          ever-evolving landscape of software development. My journey involves
-          translating concepts into code, creating seamless user experiences,
-          and constantly pushing the boundaries of what&#39;s possible
+          Delving into the world of DevOps engineering!
+           🛠️ Currently focusing on mastering CI/CD pipelines and AWS deployment,
+            eager to expand my skills and contribute to innovative projects. 
+            Let's connect and explore the possibilities together!
+             #DevOps #CI/CD #AWS #LearningJourney
+          
         </p>
       </div>
     </section>

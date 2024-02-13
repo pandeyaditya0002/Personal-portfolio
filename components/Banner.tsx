@@ -28,12 +28,13 @@ const Banner: React.FC<{}> = () => {
           🍿
         </p>
         <p className="text-md text-gray-200 my-5 max-w-[600px]">
-          Passionate Software Engineer with a focus on React Native development,
-          dedicated to crafting elegant and user-friendly mobile applications.
+          Passionate Software Engineer with a focus on HTML5, CSS,javascript and Reactjs development,
+          dedicated to crafting elegant and user-friendly mobile applications,  currently
+          Empowering development pipelines and infrastructure with DevOps expertise
         </p>
         <div className="text-md flex justify-center">
           <button
-            onClick={() => window.open("mailto:ibrahimmemon930@gmail.com")}
+            onClick={() => window.open("mailto:pandeyaditya225@gmail.com")}
             className=" z-[1]     padding-20  hover:bg-white rounded-3xl  text-white font-semibold hover:text-black py-3 px-10  border-[0.1px] border-white hover:border-transparent "
           >
             Contact Me
