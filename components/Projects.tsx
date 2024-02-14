@@ -101,7 +101,7 @@ experience.
               <div className="p-3 ">
                 <p className="text-white font-semibold text-xl">Basic-CRUD</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed the modern UI for a basic CRUD opration Based on Reactjs.
+                Designed a web-page for a basic CRUD opration Based on Reactjs.
                 </p>
               </div>
             </div>
