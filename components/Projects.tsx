@@ -14,7 +14,7 @@ const Projects: React.FC<{}> = () => {
       <div className=" container mx-auto 2xl  ">
         <div className="flex-col flex md:flex-row  mt-7">
           <Link
-            href="https://web.hr/"
+            href="https://pandeyaditya0002.github.io/Weather-app/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -27,16 +27,16 @@ const Projects: React.FC<{}> = () => {
                 alt="WebHR Project"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">WebHR</p>
+                <p className="text-white font-semibold text-xl">Weather-app</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed a modern UI website comprising more than 50 screens,
-                  along with the integration of a blog using Next.js.
+                A real-time weather app using HTML/CSS/JS. 
+                Utilized APIs for live data and implemented responsive design.
                 </p>
               </div>
             </div>
           </Link>
           <Link
-            href="https://hireside.com/"
+            href="https://pandeyaditya0002.github.io/Parking-Lot/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -49,11 +49,11 @@ const Projects: React.FC<{}> = () => {
                 alt="HireSide"
               />
               <div className="p-3">
-                <p className="text-white font-semibold text-xl">HireSide</p>
+                <p className="text-white font-semibold text-xl">Car-Parking</p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed a web application on Next.js that allows users to
-                  apply for jobs, create job posts, and manage their company
-                  profiles.
+                Created a vehicle parking system with HTML, CSS, and JavaScript 
+                for streamlined parking management, enhancing user
+experience.
                 </p>
               </div>
             </div>
@@ -61,7 +61,7 @@ const Projects: React.FC<{}> = () => {
         </div>
         <div className="flex-col flex md:flex-row ">
           <Link
-            href="https://www.vergesystems.com/"
+            href="https://pandeyaditya0002.github.io/Employee-Management-System/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -75,16 +75,18 @@ const Projects: React.FC<{}> = () => {
               />
               <div className=" p-3 ">
                 <p className="text-white font-semibold text-xl">
-                  Verge Systems
+                  EMS-Web-page
                 </p>
                 <p className="text-gray-500 text-[10px]">
-                  Developed the Verge Systems website using React.js.
+                  Developed For track the employees <br /> 
+                  record or details,
+                  by  using HTML, CSS, Javascript.
                 </p>
               </div>
             </div>
           </Link>
           <Link
-            href="http://44.201.47.75/"
+            href="https://basic-crud-opration.vercel.app/"
             rel="noopener noreferrer"
             target="_blank"
             className="z-[1]"
@@ -97,9 +99,9 @@ const Projects: React.FC<{}> = () => {
                 alt="Payoasis"
               />
               <div className="p-3 ">
-                <p className="text-white font-semibold text-xl">Payoasis</p>
+                <p className="text-white font-semibold text-xl">Basic-CRUD</p>
                 <p className="text-gray-500 text-[10px]">
-                  Designed the modern UI for a banking website utilizing Gatsby.
+                  Designed the modern UI for a basic CRUD opration Based on Reactjs.
                 </p>
               </div>
             </div>
